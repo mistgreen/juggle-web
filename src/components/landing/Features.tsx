@@ -1,5 +1,5 @@
 import featureIcons from "@/assets/feature-icons.png";
-import { Card } from "@/components/ui/card";
+import { Card } from "../ui/card";
 
 export const Features = () => {
   const features = [
